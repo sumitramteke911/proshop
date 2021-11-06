@@ -1,2 +1,2 @@
 # proshop
-React ecommerece app
+React ecommerce app
